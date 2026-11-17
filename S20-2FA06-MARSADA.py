@@ -1,0 +1,7 @@
+FirstName = input("Enter your first name: ")
+LastName = input("Enter your last name: ")
+Section = input("Enter your section: ")
+FavoriteSubject = input("Enter your favorite subject: ")
+print(FirstName + " " + LastName)
+print(Section)
+print(FavoriteSubject)
